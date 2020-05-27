@@ -1,2 +1,2 @@
 ## Dice Program: 
-This is a program
+This is a
