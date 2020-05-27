@@ -1,3 +1,5 @@
+# Program to Roll the dice.
+
 # Importing random numbers
 import random
 
