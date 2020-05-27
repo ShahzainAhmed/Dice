@@ -1,6 +1,7 @@
 # Importing random numbers
 import random
-min = 1
+
+min = 1 # Minimum value is set to 1.
 max = 6
 
 roll_again = "yes"
