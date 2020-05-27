@@ -1,2 +1,2 @@
-# Dice
+## Dice Program: 
 roll the dice.
