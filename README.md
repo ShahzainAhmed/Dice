@@ -1,2 +1,2 @@
 ## Dice Program: 
-roll the di
+roll the 
