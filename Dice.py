@@ -1,4 +1,4 @@
-# Importing random 
+# Importing random numbers
 import random
 min = 1
 max = 6
