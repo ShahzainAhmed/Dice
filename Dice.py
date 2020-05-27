@@ -1,4 +1,4 @@
-# Importing
+# Importing random 
 import random
 min = 1
 max = 6
@@ -12,3 +12,8 @@ while roll_again == "yes" or roll_again == "y":
     print (random.randint(min, max))
 
     roll_again = input("Roll the dices again?")
+    
+    
+    
+    
+    
