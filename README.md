@@ -1,2 +1,2 @@
 ## Dice Program: 
-roll t
+roll the dice
