@@ -1,2 +1,2 @@
 ## Dice Program: 
-This is a
+#### This is a program to roll the dice.
